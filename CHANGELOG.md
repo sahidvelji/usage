@@ -1,5 +1,11 @@
 # Changelog
 
+## [6.9.1](https://github.com/jdx/usage/compare/v6.9.0..v6.9.1) - 2026-09-12
+
+### 🐛 Bug Fixes
+
+- **(parse)** keep implicit default after a default-only flag by [@lu-zero](https://github.com/lu-zero) in [#1418](https://github.com/jdx/usage/pull/1418)
+
 ## [6.9.0](https://github.com/jdx/usage/compare/v6.8.0..v6.9.0) - 2026-09-12
 
 ### 🚀 Features
